@@ -14,7 +14,7 @@
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/getting-started/)
 
-## Projeto
+## 💻 Projeto
 
 <img src="./public/assets/dowhile.svg" />
 
