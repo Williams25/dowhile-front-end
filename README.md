@@ -20,7 +20,7 @@
 
 ## 🔥 Instalação e execução
 
-- Faça um clone desse repositório utilizando o camando `git clone https://github.com/Williams25/letmeask.git`
-- Entre na pasta do projeto cd letmeask e logo após `code` .
+- Faça um clone desse repositório utilizando o camando `git clone https://github.com/Williams25/dowhile-front-end.git`
+- Entre na pasta do projeto `cd dowhile-front-end` e logo após `code` .
 - Para instalar as dependências do projeto exucute no terminal `yarn` ou `npm i`
 - Para executar o projeto execute `yarn dev` ou `npm run dev`
